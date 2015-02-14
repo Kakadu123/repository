@@ -1,0 +1,55 @@
+/* Enter your custom CSS here */
+
+
+body {	
+	font-family: Verdana, sans-serif;
+}
+
+h1 {
+	color: #666666;	
+	font-size: 350%;	
+	margin-top: 45px;
+}
+
+h2 {
+	color: #f07c17;
+	font-weight: bold;
+	font-size: 1.8em;
+}
+
+.article {
+	line-height: 240%;
+	margin-bottom: 30px;
+}
+
+#leftPanel {
+	margin: 0 auto;
+}
+
+#articleDiv h2 {
+	margin: 0 0 25px 0;		
+}
+
+#featureID {
+	 border: 1px solid #ccc;
+	 margin-top: 30px;
+	 margin-bottom: 20px;
+}
+
+#h1Div h1 {
+	margin-bottom: 30px;
+}
+
+#featureID h2 {
+	margin: 30px 0 7px 30px;	
+}
+
+#ulDivID li {
+	margin-bottom:8px;
+	margin-left: 25px;
+}
+
+#ulDivID ul {
+	margin: 38px 0;
+    font-size: 110%;
+} 
