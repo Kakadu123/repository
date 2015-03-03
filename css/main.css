@@ -1,13 +1,12 @@
 /* Enter your custom CSS here */
 
-
-body {	
+body {
 	font-family: Verdana, sans-serif;
 }
 
 h1 {
-	color: #666666;	
-	font-size: 350%;	
+	color: #666666;
+	font-size: 350%;
 	margin-top: 45px;
 }
 
@@ -27,13 +26,13 @@ h2 {
 }
 
 #articleDiv h2 {
-	margin: 0 0 25px 0;		
+	margin: 0 0 25px 0;
 }
 
 #featureID {
-	 border: 1px solid #ccc;
-	 margin-top: 30px;
-	 margin-bottom: 20px;
+	border: 1px solid #ccc;
+	margin-top: 30px;
+	margin-bottom: 20px;
 }
 
 #h1Div h1 {
@@ -41,15 +40,15 @@ h2 {
 }
 
 #featureID h2 {
-	margin: 30px 0 7px 30px;	
+	margin: 30px 0 7px 30px;
 }
 
 #ulDivID li {
-	margin-bottom:8px;
+	margin-bottom: 8px;
 	margin-left: 25px;
 }
 
 #ulDivID ul {
 	margin: 38px 0;
-    font-size: 110%;
-} 
+	font-size: 110%;
+}
